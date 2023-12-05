@@ -4,5 +4,5 @@
 число num переменнй, а передавать агрументы в виде числа, то он будет передавать
 случайные данные. Я знаю, что есть функция size_of, но и её компилятор странно
 обрабатывает. Поэтому здесь приняты странные решения. 
-![Image alt](https://github.com/krabkokos/middle/1.jpg)
-![Image alt](https://github.com/krabkokos/middle/2.jpg)
+![Image alt](https://github.com/krabkokos/middle/blob/main/1.jpg)
+![Image alt](https://github.com/krabkokos/middle/blob/main/2.jpg)
